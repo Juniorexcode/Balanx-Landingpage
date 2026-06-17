@@ -57,7 +57,7 @@ export const DatacoreEarthCanvas: React.FC = () => {
           // Usar 0% en X: Mantiene tu centrado horizontal manual.
           // Usar -12% en Y: Compensamos la subida de la esfera en 3D bajando el canvas un poco por CSS
           // para mantener exactamente la misma altura visual que elegiste.
-          transform: 'translate(0%, -10%) scale(1.4)'
+          transform: 'translate(-3.5%, -10%) scale(1.3)'
         }}
       >
         <Spline
