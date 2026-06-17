@@ -1,6 +1,6 @@
 # BalanX - AI-Powered FinTech Landing Page 🚀
 
-![Overview Image 1](<img width="2521" height="1322" alt="image" src="https://github.com/user-attachments/assets/89cc8b5c-2d09-4cd0-b7cb-25792cc6b8ce" />
+![Overview Image 1](<img width="2529" height="1334" alt="image" src="https://github.com/user-attachments/assets/bc428a63-d930-4e09-b46b-1918b1ec8bfc" />
 )
 *(Espacio para imagen de portada / Hero Section)*
 
