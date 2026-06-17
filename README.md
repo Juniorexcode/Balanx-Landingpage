@@ -1,6 +1,7 @@
 # BalanX - AI-Powered FinTech Landing Page 🚀
 
-![Overview Image 1](docs/images/overview1.png)
+![Overview Image 1](<img width="2521" height="1322" alt="image" src="https://github.com/user-attachments/assets/89cc8b5c-2d09-4cd0-b7cb-25792cc6b8ce" />
+)
 *(Espacio para imagen de portada / Hero Section)*
 
 Welcome to **Balanx Landing Page**, a highly interactive, space-themed FinTech dashboard and landing experience built with modern web technologies. This project focuses on high-performance animations, fluid glassmorphism, and a deeply engaging user experience.
@@ -21,8 +22,11 @@ Welcome to **Balanx Landing Page**, a highly interactive, space-themed FinTech d
 
 ## 📸 Screenshots
 
-![Overview Image 2](docs/images/overview2.png)
-*(Espacio para imagen de features / Pricing section)*
+![Overview Image 2](<img width="2510" height="1343" alt="image" src="https://github.com/user-attachments/assets/972f9401-f49a-4b37-95ba-b5bb382bb674" />
+<img width="2505" height="1331" alt="image" src="https://github.com/user-attachments/assets/052612cd-8127-475d-bb7e-6221816ff98d" />
+
+)
+*(Espacio para imagen de Dashboard Overview / Pricing section)*
 
 ## 🚀 Getting Started
 
